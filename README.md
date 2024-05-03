@@ -1,7 +1,7 @@
 
-# Discord Bot Project
+# Basic Discord Bot Boilerplate
 
-This project contains a simple Discord bot using Nextcord. The bot is containerized using Docker, making deployment and management straightforward.
+This project contains a simple Discord bot using Nextcord, specifically, stable. Their wrapper for the Discord API can be found here https://docs.nextcord.dev/en/stable/. The bot is containerized using Docker, making deployment and management straightforward.
 
 ## Setting Up Your Discord Bot
 
