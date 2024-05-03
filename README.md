@@ -38,7 +38,7 @@ GUILD_ID=your_discord_guild_id
 To build the Docker image for your bot, run the following command in the directory containing your Dockerfile:
 
 ```bash
-docker build -t discordbot .
+docker build -t ‎gonk-disdroid‎ .
 ```
 
 ### Run the Bot Using Docker Compose
